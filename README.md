@@ -1,3 +1,3 @@
 ## Learning Golang with Newbie =)))....
 
-sample learning with sample code, sample algorithm and sample brain:)
+simple learning with simple code, simple algorithm and simple brain:)
