@@ -43,9 +43,12 @@ func add(a, b string) string {
 }
 
 func main() {
-	var a, b string
-	fmt.Scanln(&a)
-	fmt.Scanln(&b)
+	var T int
+	fmt.Scan(&T)
 
-	fmt.Println(add(a, b))
+	for i := 0; i < T; i++ {
+		var a, b string
+		fmt.Scan(&a, &b)
+		fmt.Println(add(a, b))
+	}
 }
