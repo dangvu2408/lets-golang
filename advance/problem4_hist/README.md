@@ -9,7 +9,7 @@ Bề mặt phiến đá có thể được mô tả như là một hình đa gi�
 Yêu cầu: Bạn cần giúp Lỗ Ban tìm ra hình chữ nhật chung mép với các hình chữ nhật nhỏ và có diện tích lớn nhất nằm trong phiến đá đa giác nói trên. Ở hình vẽ dưới, hình chữ nhật lớn nhất là hình được gạch chéo.
 
 ### Input
-Chứa một hoặc nhiều test. Mỗi test mô tả một đa giác bắt đầu bằng số nguyên `n (1 <= n <= 1000000)`  là số lượng hình chữ nhật nhỏ cấu thành đa giác. Tiếp theo sau `n` là số nguyên ![eq](https://latex.codecogs.com/svg.image?&space;l_1,l_2,...,l_n;) với ![eq](https://latex.codecogs.com/svg.image?0\leq&space;l_i\leq&space;100000000) lần lượt từ trái sang phải biểu thị chiều dài của các hình chữ nhật. Chiều rộng của các hình chữ nhật bằng nhau và bằng `1`. File kết thúc với dòng ghi duy nhất một số `0`.
+Chứa một hoặc nhiều test. Mỗi test mô tả một đa giác bắt đầu bằng số nguyên `n (1 <= n <= 1000000)`  là số lượng hình chữ nhật nhỏ cấu thành đa giác. Tiếp theo sau `n` là số nguyên ![eq](https://latex.codecogs.com/svg.image?\bg{white}&space;l_1,l_2,...,l_n;) với ![eq](https://latex.codecogs.com/svg.image?\bg{white}0\leq&space;l_i\leq&space;100000000) lần lượt từ trái sang phải biểu thị chiều dài của các hình chữ nhật. Chiều rộng của các hình chữ nhật bằng nhau và bằng `1`. File kết thúc với dòng ghi duy nhất một số `0`.
 
 ### Output
 Với mỗi test ghi trên một dòng diện tích của hình chữ nhật nằm trong đa giác thỏa mãn điều kiện đề bài.
