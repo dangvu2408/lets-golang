@@ -4,7 +4,7 @@ Dựa trên một trò chơi trong *Alice in Borderland - Season 2*.
 **Độ khó:** K Rô - ♦️ King of Diamonds
 
 <div display="flex" align="center">
-    <img width="75" src="./King_of_Diamonds.png">
+    <img width="100" src="./King_of_Diamonds.png">
 </div>
 
 ### Luật chơi
