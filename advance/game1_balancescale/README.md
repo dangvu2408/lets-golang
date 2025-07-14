@@ -1,6 +1,7 @@
 # Game 1: Balance Scale
 
 Dựa trên một trò chơi trong *Alice in Borderland - Season 2*.
+
 **Độ khó:** K Rô - ♦️ King of Diamonds
 
 <div display="flex" align="center">
